@@ -15,8 +15,9 @@ You can add descriptions and links to the gifts that you would like and then you
 
 ## Deployed Link
 
-Live website is deployed here: 
+Live website is deployed here: https://gift-appy.onrender.com
 
+Images not working on deployed link!
 
 ## Credits
 
