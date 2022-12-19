@@ -31,6 +31,7 @@ class ProfileForm(forms.ModelForm):
             'town_or_city',
             'county',
             'postcode',
+            'country',
             'image',
         )
 
