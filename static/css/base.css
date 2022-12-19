@@ -147,6 +147,17 @@
     z-index: -1;
 }
 
+/* styling for login, log out and register allauths forms */
+.allauth-forms {
+    padding: 100px;
+    text-align: center;
+    background-image: url("/media/hero.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
 span {
     color: red;
 }
